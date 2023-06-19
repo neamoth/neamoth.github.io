@@ -1,13 +1,4 @@
- /*
- * Template Name: Kuber - Portfolio Template
- * Author: ixtheme - (https://themeforest.net/user/ixtheme)
- * Description: Digital Agency and Portfolio Template
- * Version: 1.0
- * Copyright 2019 ixtheme
- */
 
-
-// Avoid `console` errors in browsers that lack a console.
 (function() {
     "use strict";
     var method;
